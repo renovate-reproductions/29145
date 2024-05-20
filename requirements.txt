@@ -4,5 +4,5 @@
 #
 #    pip-compile --allow-unsafe --strip-extras requirements.in
 #
-pyyaml==6.0
+pyyaml==6.0.1
     # via -r requirements.in
